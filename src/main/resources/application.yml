@@ -1,0 +1,19 @@
+---
+
+application:
+  client-origin-url: ${env.CLIENT_ORIGIN_URL}
+
+server:
+  error:
+    whitelabel:
+      enabled: false
+  port: ${env.PORT}
+
+spring:
+  mvc:
+    throw-exception-if-no-handler-found: true
+  web:
+    resources:
+      add-mappings: false
+
+...
