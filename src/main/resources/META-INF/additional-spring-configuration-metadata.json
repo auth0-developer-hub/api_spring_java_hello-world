@@ -1,5 +1,9 @@
 {
   "properties": [{
+    "name": "application.audience",
+    "type": "java.lang.String",
+    "description": "The Auth0 audience used for authorization calls"
+  }, {
     "name": "application.client-origin-url",
     "type": "java.lang.String",
     "description": "The URL of the client used to make it an allowed CORS origin"

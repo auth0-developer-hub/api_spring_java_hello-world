@@ -16,7 +16,9 @@ public class HelloWorldApplication {
 
   enum DotEnv {
     PORT,
-    CLIENT_ORIGIN_URL
+    CLIENT_ORIGIN_URL,
+    AUTH0_DOMAIN,
+    AUTH0_AUDIENCE
   }
 
   public static void main(final String[] args) {

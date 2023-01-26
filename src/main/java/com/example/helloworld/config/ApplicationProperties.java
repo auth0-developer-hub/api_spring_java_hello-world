@@ -11,4 +11,6 @@ import lombok.Value;
 public class ApplicationProperties {
 
   private String clientOriginUrl;
+
+  private String audience;
 }
