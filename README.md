@@ -1,10 +1,10 @@
-# Spring/Java: API Basic Access Control Code Sample
+# Spring/Java: API Basic Role-Based Access Control (RBAC) Code Sample
 
-This Java code sample demonstrates **how to implement authorization** in Spring API servers using Auth0.
+This Java code sample demonstrates **how to implement Role-Based Access Control (RBAC)** in Spring API servers using Auth0.
 
 This code sample is part of the ["Auth0 Developer Resources"](https://developer.auth0.com/resources), a place where you can explore the authentication and authorization features of the Auth0 Identity Platform.
 
-Visit the ["Spring/Java Code Sample: Authorization For Basic APIs"](https://developer.auth0.com/resources/code-samples/api/spring/basic-authorization) page for instructions on how to configure and run this code sample and how to integrate it with a Single-Page Application (SPA) of your choice.
+Visit the ["Spring/Java Code Sample: Role-Based Access Control For Basic APIs"](https://developer.auth0.com/resources/code-samples/api/spring/basic-role-based-access-control) page for instructions on how to configure and run this code sample and how to integrate it with a Single-Page Application (SPA) of your choice.
 
 ## Why Use Auth0?
 
