@@ -1,19 +1,11 @@
-# Spring/Java: Starter API Code Sample
+# Spring/Java: API Basic Access Control Code Sample
 
-This Java code sample demonstrates how to build an API server using Spring that is secure by design.
+This Java code sample demonstrates **how to implement authorization** in Spring API servers using Auth0.
 
-Visit the ["Spring/Java Code Samples: API Security in Action"](https://developer.auth0.com/resources/code-samples/api/spring) section of the ["Auth0 Developer Resources"](https://developer.auth0.com/resources) to explore how you can secure Spring applications written in Java by implementing endpoint protection and authorization with Auth0.
+This code sample is part of the ["Auth0 Developer Resources"](https://developer.auth0.com/resources), a place where you can explore the authentication and authorization features of the Auth0 Identity Platform.
+
+Visit the ["Spring/Java Code Sample: Authorization For Basic APIs"](https://developer.auth0.com/resources/code-samples/api/spring/basic-authorization) page for instructions on how to configure and run this code sample and how to integrate it with a Single-Page Application (SPA) of your choice.
 
 ## Why Use Auth0?
 
 Auth0 is a flexible drop-in solution to add authentication and authorization services to your applications. Your team and organization can avoid the cost, time, and risk that come with building your own solution to authenticate and authorize users. We offer tons of guidance and SDKs for you to get started and [integrate Auth0 into your stack easily](https://developer.auth0.com/resources/code-samples/full-stack).
-
-## Set Up and Run the Spring Project
-
-You can start the server in a terminal using the command:
-
-```sh
-./gradlew bootRun
-```
-
-It's also possible to start the server using [Spring Tools](https://spring.io/tools) and the IDE of your preference (VSCode, Eclipse, etc.)
